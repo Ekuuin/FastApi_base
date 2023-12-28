@@ -1,0 +1,6 @@
+fastapi~=0.105.0
+uvicorn[standard]~=0.25.0
+PyMySQL~=1.1.0
+bcrypt~=4.1.2
+python-multipart~=0.0.6
+python-jose[cryptography]
